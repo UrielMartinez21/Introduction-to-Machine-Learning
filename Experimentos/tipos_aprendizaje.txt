@@ -1,0 +1,17 @@
+[Aprendizaje supervisado]
+    (+)Se entrena dandole las preguntas y las respuestas
+    (+)Preguntas    =   Caracteristicas
+    (+)Respuestas   =   Etiquetas
+    (+)2 tipos
+        Regresion       = devolvera un numero
+        Clasificacion   = a que grupo pertenece algo
+
+[Aprendizaje no supervisado]
+    (+)Solo le damos las caracteristicas(preguntas)
+    (+)Si pertenecen al mismo grupo dos objetos
+
+[Fase de entrenamiento]
+    (+)Separar una parte de la data para que aprenda
+
+[Fase de prueba]
+    (+)El resto de data se usara para ver si aprendio correctamente 

@@ -1,0 +1,13 @@
+1) Importar banco de datos
+2) Aplicar imputacion(de preferencia por clase)
+    2.1) Manejar datos como arreglos
+    2.2) Devolver como DataFrame
+3) Sustituir datos categoricos
+    3.1) Manejar como DataFrame
+
+-----------------------------------------------------------
+--> Pre procesamiento
+    1. Imputacion
+    2. Datos categoricos
+    3. Dividir dataset en entrenamiento y prueba
+    4. Escalar datos
